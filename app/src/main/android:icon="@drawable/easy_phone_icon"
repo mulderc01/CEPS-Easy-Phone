@@ -1,0 +1,5 @@
+<application
+    android:allowBackup="true"
+    android:label="Easy Phone"
+    android:icon="@drawable/easy_phone_icon"
+    android:theme="@style/AppTheme">
