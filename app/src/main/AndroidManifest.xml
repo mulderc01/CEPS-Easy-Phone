@@ -3,7 +3,7 @@
 
     <application
         android:allowBackup="true"
-        android:label="CEPS Easy Phone"
+        android:label="Easy Phone"
         android:theme="@style/AppTheme">
 
         <activity
