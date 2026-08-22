@@ -3,7 +3,8 @@
 
     <application
         android:theme="@style/AppTheme"
-        android:label="Easy Phone">
+        android:label="Easy Phone" 
+        android:icon="@drawable/easy_phone_icon">
 
         <activity
             android:name=".MainActivity"
